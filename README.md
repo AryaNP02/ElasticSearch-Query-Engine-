@@ -304,8 +304,4 @@ results = search_boolean_es("Biden AND vaccine AND NOT Trump")
 
 ---
 
-## References
 
-- **Elasticsearch Documentation**: https://www.elastic.co/guide/
-- **Shingle Token Filter**: https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-shingle-tokenfilter.html
-- **Porter Stemmer**: https://tartarus.org/martin/PorterStemmer/
